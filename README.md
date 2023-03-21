@@ -40,8 +40,8 @@ Remember, in order to combine strings and variables in the console, you will nee
 
 The URL of the deployed application.
 
-The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
+The URL of the GitHub repository. 
+https://github.com/WabisabiMediaInc/Console-Hearts-Finances
 
 ## Credits
  

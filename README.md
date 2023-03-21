@@ -1,30 +1,52 @@
 # Console-Finances
 
-## A project written in HTML,CSS and Javascript concepts to create a financial analysis tool.
+## A project written in HTML,CSS and Javascript concepts to create financial analysis tool for analyzing the financial records of a company.
 
 JavaScript Fundamentals: Console Finances
- 
-This is an application that an employee can use to generate a random password based on criteria they’ve selected by modifying starter code. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes.
+Before you begin, download your starter codeLinks to an external site. for this Challenge and unzip the zip file.
 
-The password include special characters. If you’re unfamiliar with these, see this [list of Password Special Characters from the OWASP Foundation](https://www.owasp.org/index.php/Password_special_characters).
+## Usage
+Create a new GitHub repo called Console-Finances. Then, clone it to your computer.
 
-## The following image shows the web application's appearance and functionality:
+Copy the starter files into your local git repository.
 
-https://raw.githubusercontent.com/WabisabiMediaInc/Bulletproof--Password-Generator/main/05-javascript-challenge-demo.png
+You have been given a dataset composed of arrays with two fields: Date and Profit/Losses.
+
+Your task is to write JavaScript code that analyzes the records to calculate each of the following:
+
+The total number of months included in the dataset.
+
+The net total amount of Profit/Losses over the entire period.
+
+The average of the changes in Profit/Losses over the entire period.
+
+You will need to track what the total change in profits is from month to month and then find the average.
+
+(Total/(Number of months - 1))
+
+The greatest increase in profits (date and amount) over the entire period.
+
+The greatest decrease in losses (date and amount) over the entire period.
+
+When you open your code in the browser your resulting analysis should look similar to the following:
+
+Financial Analysis
+----------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -2315.12
+Greatest Increase in Profits/Losses: Feb-2012 ($1926159)
+Greatest Decrease in Profits/Losses: Sep-2013 ($-2196167)
+Your final code should print the analysis to the console.
+
+#Hints:
+
+You will need to do some research on your own for this project!
+
+Remember, in order to combine strings and variables in the console, you will need to use concatenation.
 
 
-* Generate a password when the button is clicked
-  * Present a series of prompts for password criteria
-    * Length of password
-      * At least 8 characters but no more than 128.
-    * Character types
-      * Lowercase
-      * Uppercase
-      * Numeric
-      * Special characters ($@%&*, etc)
-  * Code should validate for each input and at least one character type should be selected
-  * Once prompts are answered then the password should be generated and displayed in an alert or written to the page
-# <Password Generator>
+
 
 The URL of the deployed application.
 

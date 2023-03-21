@@ -39,6 +39,7 @@ Remember, in order to combine strings and variables in the console, you will nee
 
 
 The URL of the deployed application.
+https://wabisabimediainc.github.io/Console-Hearts-Finances/
 
 The URL of the GitHub repository. 
 https://github.com/WabisabiMediaInc/Console-Hearts-Finances

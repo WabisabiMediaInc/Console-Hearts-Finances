@@ -3,7 +3,6 @@
 ## A project written in HTML,CSS and Javascript concepts to create financial analysis tool for analyzing the financial records of a company.
 
 JavaScript Fundamentals: Console Finances
-Before you begin, download your starter codeLinks to an external site. for this Challenge and unzip the zip file.
 
 ## Usage
 Create a new GitHub repo called Console-Finances. Then, clone it to your computer.
@@ -28,18 +27,9 @@ The greatest increase in profits (date and amount) over the entire period.
 
 The greatest decrease in losses (date and amount) over the entire period.
 
-When you open your code in the browser your resulting analysis should look similar to the following:
 
-Financial Analysis
-----------------------------
-Total Months: 86
-Total: $38382578
-Average Change: -2315.12
-Greatest Increase in Profits/Losses: Feb-2012 ($1926159)
-Greatest Decrease in Profits/Losses: Sep-2013 ($-2196167)
-Your final code should print the analysis to the console.
 
-#Hints:
+## Hints:
 
 You will need to do some research on your own for this project!
 
